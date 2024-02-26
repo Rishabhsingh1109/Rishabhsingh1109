@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh1109&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh1109" /> </p>
 
-- 🔭 I’m currently working on **Food delivery App**
+- 🔭 I’m currently working on **CoolieWale App**
 
-- 🌱 I’m currently learning **Android , Machine learning**
+- 🌱 I’m currently learning **React Native , Machine learning**
 
 - 💬 Ask me about **DSA , UI(Apps) , SQL**
 

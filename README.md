@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **DSA , UI(Apps) , SQL**
+- 💬 Ask me about **Ml,DSA , UI(Apps) , SQL**
 
 - 📫 How to reach me **rishabhsingh11092002@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

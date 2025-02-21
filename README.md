@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Ml,DSA , UI(Apps) , SQL**
+- 💬 Ask me about **ML,DSA , UI(Apps) , SQL**
 
 - 📫 How to reach me **rishabhsingh11092002@gmail.com**
 

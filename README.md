@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh1109&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh1109" /> </p>
 
-- 🔭 I’m currently working on **CoolieWale App**
+- 🔭 I’m currently working on **CoolieWale Platform**
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **ML,DSA , UI(Apps) , SQL**
+- 💬 Ask me about **ML , DSA , UI(Apps) , SQL**
 
 - 📫 How to reach me **rishabhsingh11092002@gmail.com**
 

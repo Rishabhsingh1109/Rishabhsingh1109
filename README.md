@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **CoolieWale Platform**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **ML , DSA , UI(Apps) , SQL**
 
 - 📫 How to reach me **rishabhsingh11092002@gmail.com**
 
-- ⚡ Fun fact: **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
